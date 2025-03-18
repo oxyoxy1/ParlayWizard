@@ -1,0 +1,5 @@
+nba-api
+tabulate
+matplotlib
+scikit-learn
+numpy
